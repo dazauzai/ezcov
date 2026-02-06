@@ -1,0 +1,1 @@
+Rscript coverage.R <bed_file> <bam_file> <cnv_file> <output_file>
